@@ -1,0 +1,24 @@
+{
+  "rows": [
+    {
+      "id": 5805465889,
+      "channelId": 94,
+      "channelName": "SVT1",
+      "channelIconUrl": "https://crenova.cryptoguard.com/images/channels/SVT1_512x512.png",
+      "title": "Petrina Solange - Nu är jag här",
+      "description": "Petrina Solange har under de senaste åren etablerat sig som en av Sveriges främsta stand up-komiker. Med sin smarta, råa och hjärtliga humor har hon fått en hängiven publik över hela landet. Nu är jag här är hennes första soloföreställning.",
+      "duration": 3600,
+      "ParentalLevel": 0,
+      "parentalLevel": 0,
+      "genre": "Special",
+      "Catchup_LifeTime": 604800,
+      "startTime": 1671401100,
+      "endTime": 1671404700,
+      "allowStartOver": true,
+      "allowCatchUp": true,
+      "catchUpEventId": 1994317,
+      "playUrl": null
+    },
+ ],
+}
+
