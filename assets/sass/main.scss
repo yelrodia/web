@@ -50,6 +50,18 @@
 	@import 'layout/main';
 	@import 'layout/footer';
 
+
+
+/* calender */
+
+#calender {
+	background: url('images/overlay.png'), url('../../images/cal_bg.png');
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, bottom center;
+	background-repeat: repeat, no-repeat;
+}
+
 /* Intro */
 
 	#intro {
